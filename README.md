@@ -23,3 +23,10 @@ The Markdown files in this repository serve as a public, free learning guide for
 ---
 
 *This project was completed as part of my preparation for the Google CLI User Study. I am ready and eager to contribute my unique perspective.*
+---
+## 🐛 Troubleshooting Experience
+
+I've encountered and solved real CLI errors like:
+- `ERROR: (gcloud.services.list) The required property [project] is not currently set`
+
+These experiences have taught me valuable troubleshooting skills that make me better at using the CLI effectively.
