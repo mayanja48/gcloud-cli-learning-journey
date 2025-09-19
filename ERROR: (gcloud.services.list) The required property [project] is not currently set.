@@ -1,0 +1,6 @@
+
+### Solution:
+This error occurs when no default project is configured. Fix it with:
+
+```bash
+gcloud config set project YOUR_PROJECT_ID
